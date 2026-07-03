@@ -14,8 +14,8 @@ C for the foundation, Rust for the compiler and systems work. Depth over speed.
 
 
   ### Around here
-  - 🔧 [dotfiles](../../dotfiles) — Arch, i3, Neovim, alacritty
-  - 📝 [KR](../../KR) — K&R exercises
-  - 🐚 [MissingSemester](../../MissingSemester) — shell & tooling notes
+  - [dotfiles](https://github.com/EnragedMongoose/dotfiles)
+  - [KR](https://github.com/EnragedMongoose/KR)
+  - [MissingSemester](https://github.com/EnragedMongoose/MissingSemester)
 
 
