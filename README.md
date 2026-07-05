@@ -14,13 +14,7 @@ C for the foundation, Rust for the compiler and systems work. Depth over speed.
 
 
   ### Around here
-  - [dotfiles]/[readme](https://github.com/EnragedMongoose/dotfileshttps://github.com/EnragedMongoose/dotfiles/blob/main/DEVLOG.md)
-  - [KR](https://github.com/EnragedMongoose/KR)
-  - [MissingSemester](https://github.com/EnragedMongoose/MissingSemester)
+  - [dotfiles](https://github.com/EnragedMongoose/dotfiles [readme](https://github.com/EnragedMongoose/dotfiles/blob/main/DEVLOG.md)
+  - [KR](https://github.com/EnragedMongoose/KR) [readme](https://github.com/EnragedMongoose/KR/blob/main/DEVLOG.md)
+  - [MissingSemester](https://github.com/EnragedMongoose/MissingSemester) [readme](https://github.com/EnragedMongoose/MissingSemester/blob/master/DEVLOG.md)
 
-
-### DEVLOGs per repo
-
-- [dotfiles](https://github.com/EnragedMongoose/MissingSemester/blob/master/DEVLOG.md)
--  [KR] (https://github.com/EnragedMongoose/KR/blob/main/DEVLOG.md)
--  [MissingSemester](https://github.com/EnragedMongoose/MissingSemester/blob/master/DEVLOG.md)
